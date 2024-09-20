@@ -1,0 +1,119 @@
+{
+    "data": [
+      {
+        "name": " Java",
+        "content": [
+          "Java is a {{multiplatform, object-oriented}} programming language that runs on {{billions of devices worldwide}}.",
+          "It powers {{applications, smartphone operating systems, enterprise software}}, and many well-known programs."
+        ],
+        "snippet": "java"
+      },
+      {
+        "name": " Python",
+        "content": [
+          "Python is an {{interpreted, object-oriented, high-level}} programming language with {{dynamic}} semantics developed by {{Guido van Rossum}}.",
+          "It was originally released in {{1991}}.",
+          "Python is a {{general-purpose}} language, not specialized for any specific problems, and used to create {{various}} programmes.",
+          "Designed to be easy as well as fun, the name {{Python}} is a nod to the British comedy group {{Monty Python}}."
+        ],
+        "snippet": "python"
+      },
+      {
+        "name": " JavaScript",
+        "content": [
+          "JavaScript is a {{scripting}} language that enables you to create {{dynamically}} updating content, control multimedia, animate images, and pretty much {{everything else}}.",
+          "JavaScript is the {{cogs}} of the world wide web. It is used to {{power}} the content of a {{website}} and make things {{interactive}}."
+        ],
+        "snippet": "js"
+      },
+      {
+        "name": " C#",
+        "content": [
+          "The C# language is the most {{popular}} language for the {{.NET platform}}, a free, cross-platform, open source development environment.",
+          "C# programs can run on {{many different}} devices, from {{Internet of Things (IoT)}} devices to the {{cloud}} and {{everywhere}} in between. You can {{write apps}} for phone, desktop, and laptop computers and servers.",
+          "C# is a {{cross-platform}} general purpose language that makes {{developers productive}} while writing {{highly performant}} code."
+        ],
+        "snippet": "cs"
+      },
+      {
+        "name": " Spring Boot",
+        "content": [
+          "Spring Boot makes it {{easy}} to create stand-alone, {{production-grade}} Spring based Applications that you can {{'just run'}}.",
+          "It takes an {{opinionated view}} of the Spring platform and {{third-party libraries}} so you can get started with {{minimum}} fuss. Most {{Spring Boot}} applications need {{minimal}} Spring configuration."
+        ],
+        "snippet": "spring"
+      },
+      {
+        "name": " React",
+        "content": [
+          "React is a {{JavaScript}} framework. It is used to {{build}} user interfaces.\nIt is {{declarative}}, {{component-based}} and {{unidirectional}}.",
+          "React is {{declarative}} because you {{declare}} what you want to {{render}} and React {{figures out}} how to do it.",
+          "React is {{component-based}} because you {{split}} your user interface into {{small}} and {{reusable}} components.",
+          "React is {{unidirectional}} because data flows in a {{single}} direction, from the {{top}} to the {{bottom}}.",
+          "React is a very popular framework in the industry, although it is quite {{heavy}} and {{slow}} to {{render}} compared to other frameworks like {{Svelte}} or {{Vue}} or even lower-level solutions like {{HTMX}}."
+        ],
+        "snippet": "jsx"
+      },
+      {
+        "name": "󰎙 Hibernate",
+        "content": [
+          "Hibernate is an open source object relational mapping {{ORM}} tool that provides a framework to {{map}} object-oriented domain models to relational databases for web applications.",
+          "Some of the {{benefits}} of using Hibernate as ORM tool are: Hibernate {{supports mapping}} of java classes to {{database}} tables and vice versa.",
+          "Hibernate {{eliminates}} all the boiler-plate code that comes with {{JDBC}} and takes care of managing resources, so we can {{focus}} on business use cases rather than making sure that {{database operations}} are not causing resource leaks.",
+          "Hibernate {{helps us}} in mapping joins, collections, inheritance objects and we can {{easily visualize}} how our model classes are representing {{database tables}}."
+        ],
+        "snippet": "hibernate"
+      },
+      {
+        "name": "󰡷 Git",
+        "content": [
+          "Git is a {{version control system}}. It is used to {{track}} and {{manage}} changes to {{files}}.\nIt's useful to {{collaborate}} on {{projects}} and {{keep track}} of {{changes}}.",
+          "Git is a {{very powerful}} tool that can be used to {{track}} and {{manage}} almost anything, not just code!"
+        ],
+        "snippet": "git"
+      },
+      {
+        "name": " Docker",
+        "content": [
+          "Docker is an {{open-source}} platform that enables developers to {{build, deploy, run, update and manage containers}}.",
+          "Containers are {{standardized, executable components}} that combine application source code with the operating system {{OS}} libraries and dependencies {{required}} to run that code in any {{environment}}."
+        ],
+        "snippet": null
+      },
+      {
+        "name": "󰙨 Maven",
+        "content": [
+          "Maven is a popular {{open-source build tool}} developed by the {{Apache Group}} to build, publish, and {{deploy several}} projects at once for {{better}} project management.",
+          "Maven as a build automation tool, it {{automates}} the source code compilation and dependency management, {{assembles}} binary codes into packages, and executes {{test scripts}}.",
+          "Maven, a Yiddish word meaning accumulator of knowledge, began as an attempt to simplify the build processes in the Jakarta Turbine project."
+        ],
+        "snippet": null
+      },
+      {
+        "name": " MySQL",
+        "content": [
+          "MySQL is an {{open source}} relational database management system {{RDBMS}} that’s used to {{store}} and {{manage}} data.",
+          "Its reliability, performance, scalability, and ease of use make MySQL a {{popular choice}} for developers.",
+          "In fact, you’ll find it at the {{heart}} of demanding, {{high-traffic}} applications such as Facebook, Netflix, Uber, Airbnb, Shopify, and Booking.com."
+        ],
+        "snippet": "sql"
+      },
+      {
+        "name": " MongoDB",
+        "content": [
+          "MongoDB is a {{general-purpose document}} database designed for {{modern}} application development and for the {{cloud}}.",
+          "Its {{scale-out}} architecture allows you to meet the {{increasing demand}} for your system by adding more {{nodes}} to share the {{load}}."
+        ],
+        "snippet": "mongo"
+      },
+      {
+        "name": " PostgreSQL",
+        "content": [
+          "PostgreSQL or Postgres is a {{relational database}}. It is used to {{store}} and {{retrieve}} data.",
+          "A relational database is a type of database that {{organizes}} data into tables, which are {{structured collections}} of records or {{rows}}, each containing a set of attributes or {{columns}}.",
+          "To interact with a relational database, you need to use a {{query language}} called {{SQL}}.\nSQL is a {{declarative}} language, meaning that you {{declare}} what you want to {{retrieve}} and the database {{figures out}} how to do it."
+        ],
+        "snippet": "postgre"
+      }
+    ]
+  }

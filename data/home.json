@@ -1,0 +1,39 @@
+{
+    "data": [
+      {
+        "content": [
+          "Hi, I'm {{Nikola Knezevic}} 🤙",
+          "A {{backend-focused}} software developer."
+        ]
+      },
+      {
+        "content": [
+          "Although my focus is on backend, i also enjoy building {{full-stack}} projects.",
+          "My favorite tech includes {{Java (Spring Boot), Python, React & MySql or MongoDB!}}."
+        ]
+      },
+      {
+        "content": [
+          "Want to know more? A bit about me. {{I, am...}}",
+          "{{01}} a {{self taught developer}} who embarked on a journey of self-learning, delving into the world of coding with a focus on Java, Spring Boot, and MySQL. Alongside, I acquired familiarity with React for frontend development. Through dedicated practice and exploration, I've cultivated a deep understanding of building robust digital infrastructures.",
+          "{{02}} a {{programming enthusiast}} who is fueled by passion for coding and the endless possibilities it offers. Embracing each challenge as an opportunity to grow, I'm enthusiastic about mastering new languages and technologies.",
+          "{{03}} an {{excellent communicator}} who thinks communication is key and it's a paramount value of mine. I believe in transparency and constructive communication above all else. This helps me develop deep relationships and ensures my effectiveness and productivity in any work space with any team."
+
+        ]
+      },
+      {
+        "content": [
+          "If you like feel free to connect on <a href=\"https://www.linkedin.com/in/nikola-knezevic-11880861/\" target=\"_blank\" class=\"text-blue\">LinkedIn</a>.",
+          "You can always check out my work on <a href=\"https://github.com/NikKnez/\" target=\"_blank\" class=\"text-pink\">GitHub</a>.",
+          "You can find my resumé over here => <a href=\"/Nikola_Knezevic_Resume.pdf\" class=\"text-orange\">Resumé</a>",
+          "You can send email on <a href=\"nknezevic07@gmail.com\" target=\"_blank\" class=\"text-blue\">E-mail</a>."
+        ]
+      },
+      {
+        "content": [
+          "{{Click}} on a section on the left to learn more about my {{projects}} and past {{work experiences}}.",
+          "You can also {{navigate}} through the sections using the {{arrow keys}} or {{Vim motions}}."
+        ]
+      }
+    ]
+  }

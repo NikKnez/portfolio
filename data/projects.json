@@ -1,0 +1,90 @@
+{
+    "data": [
+      {
+        "name": "Exam Portal",
+        "year": 2024,
+        "demoUrl": "https://examportalonline.netlify.app",
+        "images": ["../images/exam.webp"],
+        "content": [
+          "The {{Exam Portal}} using {{Spring Boot}} and {{React}} is a Full Stack application that can be used by any {{University}} to handle the {{Student Online Examination}}.\n\nFor testing you can use Role: {{Admin}}, User: {{admin@demo.com}}, Password: {{admin1234}}."
+        ],
+        "technologies": [
+          "{{Spring Boot}}",
+          "React",
+          "{{MySql}}",
+          "Docker"
+        ]
+      },
+      {
+        "name": "Algorithm Visualizer",
+        "year": 2024,
+        "demoUrl": "https://algvisual.netlify.app",
+        "images":["../images/algvis.webp"],
+        "content": [
+          "{{Algorithm Visualizer}} is an interactive web application designed to {{help users}} understand and visualize the functioning of {{various algorithms}}.\n\nBuilt with a {{modern}} tech stack including {{Spring Boot}} and {{React}}, this project serves as a comprehensive {{educational tool}} and a {{showcase}} of efficient software architecture." 
+        ],
+        "technologies": [
+          "{{Spring Boot}}",
+          "React"
+        ]
+      },
+      {
+        "name": "IntervjuPiO",
+        "year": 2024,
+        "demoUrl": "https://intervjupio.netlify.app",
+        "images":["../images/intervju.webp"],
+        "content": [
+          "{{IntervjuPiO}} is an application that allows {{viewing}} and {{downloading}} documents with questions and answers for {{interviews}}.\n\nThe application consists of a {{Spring Boot}}, {{React}} and {{MongoDB}}.\n\nThis is a {{simple}} application to assist with {{learning}} for {{technical interviews}}. The files are available in {{Serbian}} and {{English}}."
+        ],
+        "technologies": [
+          "{{Spring Boot}}", 
+          "React", 
+          "{{MongoDB}}"
+        ]
+      },
+      {
+        "name": "Book Advisor",
+        "year": 2024,
+        "demoUrl": "https://bookadvisor.netlify.app",
+        "images":["../images/book.webp"],
+        "content": [
+          "{{Book Advisor}} is a Full Stack {{Python-Flask}}, {{React}} and {{MongoDB}} web application that offers personalized {{book}} recommendations based on {{users reading}} preferences.\n\nLeveraging data from the {{New York Times}} Bestseller lists and integrating with the {{Google Books}} API, Book Advisor provides a {{seamless experience}} for discovering new reads.\n\nFor testing you can use User: {{admin}}, Password: {{Admin-123}}."
+        ],
+        "technologies": [
+          "{{Python}}", 
+          "Flask",
+          "{{React}}",
+          "MongoDB"
+        ]
+      },
+      {
+        "name": "Film Box",
+        "year": 2024,
+        "githubUrl": "https://github.com/NikKnez/Film_Box_Project",
+        "images":["../images/film.webp"],
+        "content": [
+          "The {{Film Box}} Project aims to implement an application for managing {{films}}, consisting of a {{Spring Boot}} backend application that exposes a {{REST API}} for creating, retrieving, and deleting films.\n\nThe backend application is secured with {{JWT}} access tokens, allowing access to {{secured}} endpoints only with a valid token, and a {{React}} frontend application where users can retrieve information about films.\n\nUsers with the {{ADMIN}} role have access to all secured endpoints, including endpoints to create and delete films.\n\nThe project utilizes {{OAuth2 (Social Login)}} for securing both applications."
+        ],
+        "technologies": [
+          "{{Spring Boot}}", 
+          "React",
+          "{{PostgreSQL}}",
+          "Docker"
+      ]
+      },
+      {
+        "name": "JavaQuizMQA",
+        "year": 2023,
+        "githubUrl": "https://github.com/NikKnez/JavaQuizMQA",
+        "images":["../images/quiz.webp"],
+        "content": [
+          "The {{Java Quiz}} Application is a {{JavaFX}}-based desktop application that provides users with the opportunity to {{test}} their knowledge of {{Java}} programming concepts through interactive {{quizzes}}.\n\nDive into a world of {{interactive learning}} with multiple-choice questions covering a range of programming topics.\n\nReceive {{instant}} feedback on your answers, explore detailed {{explanations}}, and enhance your {{coding}} skills!"
+        ],
+        "technologies": [
+          "{{Java}}", 
+          "JavaFX",
+          "{{MySQL}}"
+        ]
+      }
+    ]
+  }

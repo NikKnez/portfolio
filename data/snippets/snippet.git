@@ -1,0 +1,27 @@
+$ git config --global user.name "Your Name Comes Here"
+$ git config --global user.email you@yourdomain.example.com
+
+$ tar xzf project.tar.gz
+$ cd project
+$ git init
+
+$ git add .
+
+$ git commit
+
+$ git add file1 file2 file3
+
+$ git diff --cached
+
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+
+	modified:   file1
+	modified:   file2
+	modified:   file3
+
+$ git commit
+
+$ git commit -a
