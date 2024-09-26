@@ -201,7 +201,7 @@ async function displayContent() {
     githubButtonElement.classList.add("project-button");
     githubButtonElement.href = sectionData?.githubUrl;
     githubButtonElement.target = "_blank";
-    githubButtonElement.innerText = "Github";
+    githubButtonElement.innerText = "GitHub";
 
     const demoButtonElement = document.createElement("a");
     demoButtonElement.classList.add("project-button");
