@@ -82,11 +82,10 @@
   }
   
   #logo-container {
-    display: flex;
+    display: inline-table;
     justify-content: center;
     align-items: center;
     width: 70%;
-    margin-bottom: 3rem;
     min-height: 224px;
   }
   
